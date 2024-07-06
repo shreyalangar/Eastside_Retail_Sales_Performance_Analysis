@@ -1,3 +1,5 @@
+# Eastside_Retail_Sales_Performance_Analysis
+
 The dataset comprises of Sales data for Eastside Company. It's a retail company that deals in Fashion, Auto & Accessories, Electronic, and Home & Furniture. The dataset has Order ID, Product Name, Product Category, Sales, Profit, Shipping Cost, Customer name, Country, etc. Time frame given is for 1 year - 2022.
 
 Objective : The primary objective of this analysis is to uncover patterns, and trends by designing a dashboard to analyze and extract meaningful insights about the data.
